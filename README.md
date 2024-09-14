@@ -18,6 +18,6 @@
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheeeeesha&show_icons=true&theme=radical)
 
 ### Connect with Me 🌍
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ashish-tamhankar)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)]([https://linkedin.com/in/ashish-tamhankar](https://www.linkedin.com/in/ashish-tamhankar-2b5aba21a/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashishtamhankar09@gmail.com)
 
