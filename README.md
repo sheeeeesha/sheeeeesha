@@ -24,7 +24,11 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ### GitHub Stats 📊
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheeeeesha&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheeeeesha&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sheeeeesha&theme=radical)
+
 
 ### Connect with Me 🌍
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ashish-tamhankar-2b5aba21a/)
