@@ -15,7 +15,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### GitHub Stats 📊
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish-tamhankar&show_icons=true&theme=radical)
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheeeeesha&show_icons=true&theme=radical)
 
 ### Connect with Me 🌍
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ashish-tamhankar)
